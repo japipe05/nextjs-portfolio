@@ -11,6 +11,6 @@ TODO
 * Use `next/font` with self-hosted Inter from Google Fonts
 * Become markdown native and move away from Cosmic CMS
 
-As I am using a CMS, without setting up a mock cosmicJS account, you won't be able to deploy and run the code. I will create a mock cosmic account when I get time. 
+As I am using a CMS, without setting up a mock cosmicJS account, you won't be able to deploy and run the code. I will create a mock cosmic account when I get time.  
 
 
